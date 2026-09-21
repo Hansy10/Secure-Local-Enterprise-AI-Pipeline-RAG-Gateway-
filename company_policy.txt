@@ -1,0 +1,2 @@
+Abu Dhabi Enterprise Policy: Employees must use a secure corporate VPN to access servers remotely.
+AI Policy 2026: Customer data must be hosted locally within UAE borders to maintain strict privacy compliance.
